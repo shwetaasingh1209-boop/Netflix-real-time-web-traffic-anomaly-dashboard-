@@ -1,4 +1,4 @@
-# Real-Time Web Traffic Anomaly Monitoring Dashboard
+# Netflix Real-Time Web Traffic Anomaly Monitoring Dashboard
 
 ##  Overview
 This project implements a **near real-time web traffic monitoring system** that detects abnormal spikes or drops in website traffic using **statistical anomaly detection** and visualizes the results in **Power BI Desktop**.
